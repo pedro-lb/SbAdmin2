@@ -29,7 +29,7 @@ namespace SbAdmin2.Controllers
             return View();
         }
 
-        public IActionResult NotFound()
+        public new IActionResult NotFound()
         {
             return View("404");
         }
