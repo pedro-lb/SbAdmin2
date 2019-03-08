@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="gulpfile.js" />
     <Content Include="LICENSE" />
     <Content Include="README.md" />
   </ItemGroup>
