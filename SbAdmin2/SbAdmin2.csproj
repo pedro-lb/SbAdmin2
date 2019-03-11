@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="Files\.travis.yml" />
     <Content Include="Files\scss\navs\_global.scss" />
     <Content Include="Files\scss\navs\_sidebar.scss" />
     <Content Include="Files\scss\navs\_topbar.scss" />
