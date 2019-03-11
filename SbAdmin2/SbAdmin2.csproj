@@ -5,6 +5,32 @@
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="Files\scss\navs\_global.scss" />
+    <Content Include="Files\scss\navs\_sidebar.scss" />
+    <Content Include="Files\scss\navs\_topbar.scss" />
+    <Content Include="Files\scss\sb-admin-2.scss" />
+    <Content Include="Files\scss\utilities\_animation.scss" />
+    <Content Include="Files\scss\utilities\_background.scss" />
+    <Content Include="Files\scss\utilities\_border.scss" />
+    <Content Include="Files\scss\utilities\_display.scss" />
+    <Content Include="Files\scss\utilities\_progress.scss" />
+    <Content Include="Files\scss\utilities\_rotate.scss" />
+    <Content Include="Files\scss\utilities\_text.scss" />
+    <Content Include="Files\scss\_buttons.scss" />
+    <Content Include="Files\scss\_cards.scss" />
+    <Content Include="Files\scss\_charts.scss" />
+    <Content Include="Files\scss\_dropdowns.scss" />
+    <Content Include="Files\scss\_error.scss" />
+    <Content Include="Files\scss\_footer.scss" />
+    <Content Include="Files\scss\_global.scss" />
+    <Content Include="Files\scss\_login.scss" />
+    <Content Include="Files\scss\_mixins.scss" />
+    <Content Include="Files\scss\_navs.scss" />
+    <Content Include="Files\scss\_utilities.scss" />
+    <Content Include="Files\scss\_variables.scss" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
